@@ -71,7 +71,7 @@ Modelo de clasificación utilizando XGBoost para predecir la demanda futura en e
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrewtaylorsoftwaredev/)
-- 🌐 [Portafolio](https://github.com/andtay)
+- 🌐 [Portfolio Github](https://github.com/andtay)
 - ✉️ andrew93.taylor2@gmail.com
 
 ---
