@@ -55,8 +55,8 @@ Modelo de clasificación utilizando XGBoost para predecir la demanda futura en e
 |**Data Science & Machine Learning - 4Geeks Academy** | <img src="https://digitalfuturesociety.com/app/uploads/2021/06/BDT_logo_becas_geeks_v2.jpg" width="80"/> |
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------|
 
-**Grado en Telecomunicaciones (especialidad Telemática) – Universidad de Valencia**  
-  📍 Valencia, España
+|**Grado en Telecomunicaciones (especialidad Telemática) – Universidad de Valencia** |📍 Valencia, España |
+|------------------------------------------------------------|------------------|
 
 ---
 
