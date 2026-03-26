@@ -1,23 +1,10 @@
-# 👋 ¡Hola! Soy Andrew Taylor | Hi! I'm Andrew Taylor
+# 👋 Hi! I'm Andrew Taylor | ¡Hola! Soy Andrew Taylor
 
-### 📊 Data Scientist | 📈 Machine Learning | 🧠 IA Aplicada / Applied AI
+### 📊 Data Scientist | 📈 Machine Learning | 🧠 Applied AI / IA Aplicada
 
 ---
 
 <details open>
-<summary><b>🇪🇸 Leer en Español</b> (Click para desplegar)</summary>
-
-Científico de datos con experiencia en análisis exploratorio, modelado predictivo, visualización de datos y desarrollo de soluciones aplicadas al mundo real.
-
-Especializado en Python (Pandas, NumPy), SQL y técnicas de Machine Learning con TensorFlow/Keras. Me enfoco en automatizar procesos y generar insights accionables que impulsan decisiones estratégicas.
-
-Habilidad demostrada para transformar datos complejos en soluciones prácticas mediante:
-- 📌 Análisis exploratorio riguroso
-- 🧠 Modelado predictivo
-- 📈 Visualización clara y efectiva
-</details>
-
-<details>
 <summary><b>🇺🇸 Read in English</b> (Click to expand)</summary>
 
 Data Scientist with experience in exploratory analysis, predictive modeling, data visualization, and developing real-world applied solutions.
@@ -30,13 +17,26 @@ Proven ability to transform complex data into practical solutions through:
 - 📈 Clear and effective visualization
 </details>
 
+<details>
+<summary><b>🇪🇸 Leer en Español</b> (Click para desplegar)</summary>
+
+Científico de datos con experiencia en análisis exploratorio, modelado predictivo, visualización de datos y desarrollo de soluciones aplicadas al mundo real.
+
+Especializado en Python (Pandas, NumPy), SQL y técnicas de Machine Learning con TensorFlow/Keras. Me enfoco en automatizar procesos y generar insights accionables que impulsan decisiones estratégicas.
+
+Habilidad demostrada para transformar datos complejos en soluciones prácticas mediante:
+- 📌 Análisis exploratorio riguroso
+- 🧠 Modelado predictivo
+- 📈 Visualización clara y efectiva
+</details>
+
 ---
 
-## 🧰 Herramientas y Tecnologías | Tools & Technologies
+## 🧰 Tools & Technologies | Herramientas y Tecnologías
 
 - 🐍 **Python** (Pandas, NumPy, Scikit-learn)
 - 🤖 **Machine Learning** (XGBoost, TensorFlow, Keras, Random Forest, SVM, Deep Learning)
-- 📉 **Visualización / Visualization** (Matplotlib, Seaborn, Streamlit)
+- 📉 **Visualization / Visualización** (Matplotlib, Seaborn, Streamlit)
 - 🧹 **Data Cleaning** (Feature Engineering)
 - 🛠️ **Stack**: SQL, Git, Jupyter, VS Code
 
@@ -54,43 +54,44 @@ Proven ability to transform complex data into practical solutions through:
 
 ---
 
-## 📂 Proyectos Destacados | Featured Projects
+## 📂 Featured Projects | Proyectos Destacados
 
-### 🔬 Predicción de demanda para el sector retail | Retail Demand Forecasting
-**ES:** Modelo de clasificación utilizando XGBoost para predecir la demanda futura, combinando modelos avanzados y una interfaz interactiva.  
+### 🔬 Retail Demand Forecasting | Predicción de demanda para el sector retail
 **EN:** Classification model using XGBoost to predict future demand, combining advanced modeling with an interactive interface.  
-🔗 [Ver repositorio / View Repository](https://github.com/andtay/Machine_Learning_Based_Demand_Forecasting)
+**ES:** Modelo de clasificación utilizando XGBoost para predecir la demanda futura, combinando modelos avanzados y una interfaz interactiva.  
+🔗 [View Repository / Ver repositorio](https://github.com/andtay/Machine_Learning_Based_Demand_Forecasting)
 
 ---
 
-## 🎓 Educación | Education
+## 🎓 Education | Educación
 
-| Institución | Título / Degree |
+| Degree / Título | Institution / Institución |
 | :--- | :--- |
-| **4Geeks Academy** | Data Science & Machine Learning |
-| **Universidad de Valencia** | Grado en Telecomunicaciones (Telemática) / B.S. in Telecommunications |
+| **Data Science & Machine Learning** | 4Geeks Academy |
+| **B.S. in Telecommunications (Telematic specialty)** | Universidad de Valencia |
 
 ---
 
-## 🌍 Disponibilidad | Availability
+## 🌍 Availability | Disponibilidad
 
 - 📍 **Location / Ubicación:** Valencia, Spain / España
 - 🌐 **Open to / Abierto a:** International & Remote / Internacionales y remotas
 - 📦 **Relocation / Reubicación:** Immediate availability / Disponible de inmediato
+
 ---
 
-## 📫 Contacto | Contact
+## 📫 Contact | Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrewtaylorsoftwaredev/)
 - 🌐 [Portfolio](https://github.com/andtay)
 - ✉️ andrew93.taylor2@gmail.com
+
 ---
 
-## 🧭 Actualmente estoy... | Currently I am...
+## 🧭 Currently I am... | Actualmente estoy...
 
-- 📚 **Aprendiendo / Learning:** Modelos generativos y LLMs | Generative Models & LLMs.
-- 🤝 **Colaboración / Collaboration:** Abierto a colaborar en proyectos de ciencia de datos aplicada | Open to collaborating on applied Data Science projects.
-- 📊 **Visualización / Visualization:** Explorando visualizaciones avanzadas con Power BI y Tableau | Exploring advanced visualizations with Power BI and Tableau.
-- 🎯 **Objetivo / Goal:** En búsqueda activa de oportunidades como **Científico de Datos** o **Analista de Datos** | Actively seeking opportunities as a **Data Scientist** or **Data Analyst**.
-
+- 📚 **Learning / Aprendiendo:** Generative Models & LLMs | Modelos generativos y LLMs.
+- 🤝 **Collaboration / Colaboración:** Open to collaborating on applied Data Science projects | Abierto a colaborar en proyectos de ciencia de datos aplicada.
+- 📊 **Visualization / Visualización:** Exploring advanced visualizations with Power BI and Tableau | Explorando visualizaciones avanzadas con Power BI y Tableau.
+- 🎯 **Goal / Objetivo:** Actively seeking opportunities as a **Data Scientist** or **Data Analyst** | En búsqueda activa de oportunidades como **Científico de Datos** o **Analista de Datos**.
 
